@@ -1,6 +1,7 @@
 h1, h2, p {
     color: black;
     font-family: sans-serif;
+    width:50%
 }
 
 button {
@@ -11,7 +12,16 @@ button {
     padding: 10px;
 }
 
+/*
 #image-container {
     background: url('https://bl6pap003files.storage.live.com/y4mmITb3UQMtRH5_HVg3xPXPjIpV6swUZExIL-3mGIIlyspOhdVgpDK4o7rbRcmxLUEs1VuyQLRe9YDOYaqlTLQXra_nzzAwEhXRGixcvLgshTgKwQygS3GsPUfFcrzqXQmgmm5WJmQqMRgwmvrFwjgxa77yDfjBPxtRQFxyGW3dBhTXVl9XFnP3tWd34vk33bB?width=884&height=456&cropmode=none');
     background-position: center;
+    padding: 200px;
+}
+*/
+
+#image-container {
+    background: url('https://bl6pap003files.storage.live.com/y4mmITb3UQMtRH5_HVg3xPXPjIpV6swUZExIL-3mGIIlyspOhdVgpDK4o7rbRcmxLUEs1VuyQLRe9YDOYaqlTLQXra_nzzAwEhXRGixcvLgshTgKwQygS3GsPUfFcrzqXQmgmm5WJmQqMRgwmvrFwjgxa77yDfjBPxtRQFxyGW3dBhTXVl9XFnP3tWd34vk33bB?width=884&height=456&cropmode=none');
+    background-position: center;
+    padding: 50px;
 }
