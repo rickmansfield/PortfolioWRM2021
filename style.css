@@ -25,3 +25,7 @@ button {
     background-position: center;
     padding: 50px;
 }
+span {
+    font:bolder;
+    color: green;
+}
