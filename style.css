@@ -23,12 +23,13 @@ button {
 */
 
 #image-container {
-    background-image: url('/images/greenShoot.JPG'); 
+    background-image: url('/images/red.jpeg'); 
     /*background-position: center;*/
     background-repeat: no-repeat;
     padding: 50px;
+    max-height: fit-content;
+    max-width: fit-content;
     background-position: center;
-    height: auto;
 }
 span {
     font:bolder;
