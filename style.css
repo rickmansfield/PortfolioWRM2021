@@ -7,7 +7,7 @@ h1, h2, p {
 
 button {
     color: white;
-    background-color: #BB2026;
+    background-color:#BB2026;
     font-size: 16px;
     border: 0px;
     padding: 10px;
@@ -24,13 +24,24 @@ button {
 
 #image-container {
     background-image: url('/images/red62.jpg'); 
-    /*background-position: center;*/
     background-repeat: no-repeat;
     padding: 50px;
     max-height: 100%;
     max-width: 100%;
     background-position: right;
 }
+
+/*
+#image-container {
+    background-image: url('/images/greenShoot3x12.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    max-height: 100%;
+    max-width: 100%;
+    background-position: right;
+}
+*/
 span {
     font:bolder;
     color: green;
