@@ -64,3 +64,12 @@ span {
 .italics{
     font: italic;
 }
+
+.grey-background-1 {
+    background-color: rgb(190, 192, 194);
+    padding: 10px;
+}
+
+.grey-alternate {
+    padding: 10px;
+}
