@@ -71,6 +71,7 @@ span {
 .grey-background-1 {
     background-color: rgb(190, 192, 194);
     padding: 5px;
+    margin-block: 10px;
     box-shadow: 3px 3px 10px;
 }
 
