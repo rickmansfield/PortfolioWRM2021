@@ -2,7 +2,7 @@
 h1, h2, p {
     color: black;
     font-family: sans-serif;
-    width:80%
+    /* width:80% */
 }
 
 button {
@@ -18,9 +18,9 @@ button {
     background-image: url('/images/red62.jpg'); 
     background-repeat: no-repeat;
     padding: 50px;
-    max-height: 300px;
+    max-height: 100%;
     max-width: 100%;
-    background-position: right;
+    background-position: auto;
     box-shadow: 3px 3px 10px;
 }
 
@@ -34,7 +34,6 @@ span {
     padding: 10px;
     margin-top: 10px;
     box-shadow: 3px 3px 10px;
-    /*text-align: center;*/
 
 }
 
