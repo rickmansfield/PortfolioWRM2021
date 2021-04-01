@@ -29,6 +29,7 @@ button {
     max-height: 100%;
     max-width: 100%;
     background-position: center;
+    box-shadow: 3px 3px 10px;
 }
 
 /*
