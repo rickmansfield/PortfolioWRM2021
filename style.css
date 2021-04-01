@@ -2,7 +2,7 @@
 h1, h2, p {
     color: black;
     font-family: sans-serif;
-    /* width:80% */
+    width:80%
 }
 
 button {
@@ -20,7 +20,7 @@ button {
     padding: 50px;
     max-height: 100%;
     max-width: 100%;
-    background-position: auto;
+    background-position: right;
     box-shadow: 3px 3px 10px;
 }
 
