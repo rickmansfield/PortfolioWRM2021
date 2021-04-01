@@ -15,7 +15,7 @@ button {
 }
 
 #image-container {
-    background-image: url('/images/red62.jpg'); 
+    background-image: url('images/red62.jpg'); 
     background-repeat: no-repeat;
     padding: 50px;
     max-height: 100%;
