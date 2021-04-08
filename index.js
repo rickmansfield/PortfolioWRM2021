@@ -6,4 +6,3 @@ function changeColors() {
       image.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1815011/lambda-green.png";
     }
   }
-  
