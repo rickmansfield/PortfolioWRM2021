@@ -5,6 +5,10 @@ h1, h2, h3, h4, p, li {
     width:80%
 }
 
+/* p{
+    display:block;
+} */
+
 button {
     color: white;
     background-color:#BB2026;
@@ -49,13 +53,34 @@ span {
 }
 
 .grey-background-1 {
+    display: inline-block;
     background-color: rgb(190, 192, 194);
-    padding: 5px;
-    margin-block: 10px;
+    margin: 5px;
     box-shadow: 3px 3px 10px;
+    border: none;
+    padding: 15px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    
 }
 
 .grey-alternate {
-    padding: 5px;
+    display: inline-block;
+    margin: 5px;
     box-shadow: 3px 3px 10px;
+    border: none;
+    padding: 15px;
+    height: 300px;    
+    width: 200px;
+    text-align: center;
 }
+
+#lambda {
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    height: 50px;
+    
+    
+  }
