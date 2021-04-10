@@ -63,7 +63,6 @@ span {
 }
 
 .grey-background-1 {
-   
     background-color: rgb(190, 192, 194);
     margin: 5px;
     box-shadow: 3px 3px 10px;
@@ -76,11 +75,11 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: space-around;
     
 }
 
 .grey-alternate {
-   
     margin: 5px;
     box-shadow: 3px 3px 10px;
     border: none;
@@ -92,6 +91,7 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    align-content: space-around;
 }
 
 #lambda {
