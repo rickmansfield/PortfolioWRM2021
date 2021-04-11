@@ -5,14 +5,6 @@ h1, h2, h3, h4, p, li {
     width:80%
 }
 
-#work-samples {
-    background-color: black;
-    color:rgb(190, 192, 194);
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-}
-
 button {
     color: white;
     background-color:#BB2026;
@@ -45,6 +37,14 @@ span {
 
 }
 
+#work-samples {
+    background-color: black;
+    color:rgb(190, 192, 194);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
 #work-examples {
     border: 3px solid black;
     padding: 10px;
@@ -54,8 +54,6 @@ span {
     justify-content: space-evenly;
     align-self: center;
     flex-wrap: wrap;
-
-    
 }
 
 .italics{
