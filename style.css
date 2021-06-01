@@ -42,7 +42,9 @@ span {
     padding: 10px;
     margin-top: 10px;
     box-shadow: 3px 3px 10px;
-
+}
+#proficiencies:hover{
+    background-color: antiquewhite;
 }
 
 
@@ -56,6 +58,10 @@ span {
     justify-content: space-evenly;
     align-self: center;
     flex-wrap: wrap;
+}
+
+#work-examples:hover{
+    border: 5px solid rgb(243, 12, 12);
 }
 
 .italics{
@@ -78,6 +84,9 @@ span {
     align-content: space-around;
     
 }
+.grey-background-1:hover{
+    border: 3px solid black;
+}
 
 .grey-alternate {
     margin: 5px;
@@ -94,6 +103,9 @@ span {
     align-content: space-around;
 }
 
+.grey-alternate:hover{
+    border: 3px solid black;
+}
 #lambda {
     margin: 10px;
     border: none;
